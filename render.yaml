@@ -1,5 +1,4 @@
-services:
-  - name: web
-    type: web
-    buildCommand: null
-    publish: /
+staticSites:
+ - name: my-website
+   buildCommand: echo 'No build step required'
+   publishDir: /
