@@ -39,7 +39,7 @@ function Navbar() {
       <div className="navbar-center">
         <Link to="/">
           <div className="btn btn-ghost normal-case text-xl">
-            <FontAwesomeIcon icon={fas.faMugHot} /> tottaly not ultraviolet
+            <FontAwesomeIcon icon={fas.faMugHot} /> some random owo gaming proxy
           </div>
         </Link>
       </div>
